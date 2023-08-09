@@ -1,0 +1,96 @@
+{
+  "users": [
+    {
+      "name": "anil",
+      "email": "anil@test.com",
+      "author": "anil1234",
+      "id": 1
+    },
+    {
+      "name": "john",
+      "email": "john@test.com",
+      "author": "john1234",
+      "id": 2
+    },
+    {
+      "name": "virat",
+      "email": "virat@test.com",
+      "author": "virat1234",
+      "id": 3
+    },
+    {
+      "name": "sakib",
+      "email": "sakib@test.com",
+      "author": "sakib1234",
+      "id": 4
+    },
+    {
+      "name": "Shihabun Mobin Jisan",
+      "email": "jisan@gmail.com",
+      "password": "jisan1234",
+      "id": 5
+    },
+    {
+      "email": "jisan@gmail.com",
+      "password": "jisan1234",
+      "name": "Jisan",
+      "id": 6
+    },
+    {
+      "email": "new@gmail.com",
+      "password": "new12345",
+      "name": "new",
+      "id": 7
+    },
+    {
+      "email": "test@test.com",
+      "password": "test1234",
+      "name": "test",
+      "id": 8
+    },
+    {
+      "email": "jisan@test.com",
+      "password": "jisan1234",
+      "name": "jisan",
+      "id": 9
+    },
+    {
+      "email": "jisan2@test.com",
+      "password": "1234",
+      "name": "jisan2",
+      "id": 10
+    }
+  ],
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "KFC",
+      "contact": 11111,
+      "address": "Dhaka, Bangladesh"
+    },
+    {
+      "name": "Khida Lagse2",
+      "address": "CTG, Bangladesh2",
+      "contact": "2222999",
+      "id": 2
+    },
+    {
+      "name": "Kacci Dine Bd",
+      "address": "Rangpur, India",
+      "contact": "00999",
+      "id": 3
+    },
+    {
+      "name": "Noodles",
+      "address": "Cox'sBazar, Bangladesh",
+      "contact": "12344",
+      "id": 4
+    },
+    {
+      "name": "Burger King2",
+      "address": "Pahartoli, Chittagong",
+      "contact": "8899001",
+      "id": 5
+    }
+  ]
+}
